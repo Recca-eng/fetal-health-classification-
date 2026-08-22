@@ -34,9 +34,7 @@ The `app.py` file is a Streamlit app that lets you adjust the model's most influ
 
 **Note:** This tool is for demonstration purposes only. It is not a medical device and should never be used to guide real clinical decisions.
 
-## Repository Structure
 
-```
 
 ## Limitations
 
