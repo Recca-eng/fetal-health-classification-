@@ -2,7 +2,7 @@
 
 A machine learning project that classifies fetal health status — **Normal**, **Suspect**, or **Pathological** — from cardiotocography (CTG) measurements, using Decision Tree, Random Forest, and XGBoost models.
 
-🔗 **[Try the live demo](#)** *(add your Streamlit Cloud link here once deployed)*
+🔗 **[Try the live demo](#)** *(https://recca-eng-fetal-health-classification--app-rtmz2o.streamlit.app/)*
 
 ---
 
