@@ -30,21 +30,12 @@ EDA → data cleaning → feature selection (mutual information) → model compa
 
 ## Live Demo
 
-The `app.py` file is a Streamlit app that lets you adjust the model's most influential features and get a live prediction. It uses real dataset statistics (median/min/max) for all inputs — no fabricated values.
+The `app.py` file is a Streamlit app that lets you adjust the model's most influential features and get a live prediction. It uses real dataset statistics (median/min/max) for all inputs  and there are no fabricated values.
 
 **Note:** This tool is for demonstration purposes only. It is not a medical device and should never be used to guide real clinical decisions.
 
 ## Repository Structure
 
-```
-├── Intelligent_Fetal_Health_Risk_Prediction.ipynb   # Full analysis notebook
-├── fetal_health_model.pkl                            # Trained XGBoost model
-├── feature_stats.json                                # Feature median/min/max for the app
-├── DISCUSSION.md                                      # Real-world application & limitations
-├── app.py                                             # Streamlit demo app
-├── requirements.txt                                   # Python dependencies
-└── data/
-    └── fetal_health.csv                               # Original dataset
 ```
 
 ## Limitations
